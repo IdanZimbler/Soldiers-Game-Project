@@ -1,0 +1,55 @@
+Game Configurations
+Player1
+NormalSoldier,100.000000,[2.000000 3.000000],M16
+ParamedicSoldier,120.000000,[10.000000 31.000000],
+SniperSoldier,80.000000,[5.000000 12.000000],UZI
+Player2
+NormalSoldier,100.000000,[90.000000 112.000000],Missle
+SniperSoldier,80.000000,[90.000000 113.000000],M16
+NormalSoldier,100.000000,[65.000000 100.000000],M16
+Game Configurations
+Player1
+NormalSoldier,90.000000,[5.010307 5.634018],Missle
+ParamedicSoldier,120.000000,[8.884759 27.158615],
+SniperSoldier,80.000000,[4.172394 10.179267],UZI
+Player2
+NormalSoldier,90.000000,[89.132278 108.095252],Missle
+SniperSoldier,80.000000,[88.028038 112.666283],M16
+NormalSoldier,90.000000,[68.301229 97.741264],M16
+Game Configurations
+Player1
+NormalSoldier,80.000000,[7.523927 8.745564],Missle
+ParamedicSoldier,120.000000,[7.769518 23.317230],
+SniperSoldier,80.000000,[6.009106 10.970778],UZI
+Player2
+NormalSoldier,80.000000,[86.478991 105.101915],Missle
+SniperSoldier,80.000000,[86.890468 111.021311],M16
+NormalSoldier,80.000000,[72.267961 98.256079],M16
+Game Configurations
+Player1
+NormalSoldier,70.000000,[4.736848 5.876384],M16
+ParamedicSoldier,120.000000,[6.654278 19.475845],
+SniperSoldier,80.000000,[7.828750 11.800775],UZI
+Player2
+NormalSoldier,70.000000,[82.496783 104.725062],Missle
+SniperSoldier,80.000000,[85.103895 110.122336],M16
+NormalSoldier,70.000000,[76.265620 98.392925],M16
+Game Configurations
+Player1
+NormalSoldier,70.000000,[3.481692 4.319277],Missle
+ParamedicSoldier,120.000000,[5.298864 15.712489],
+SniperSoldier,80.000000,[6.723110 10.134173],UZI
+Player2
+NormalSoldier,60.000000,[78.512943 104.365867],Missle
+SniperSoldier,80.000000,[83.197306 109.518251],M16
+NormalSoldier,60.000000,[79.839895 96.597218],M16
+Game Configurations
+Player1
+NormalSoldier,70.000000,[3.481692 4.319277],Missle
+ParamedicSoldier,120.000000,[4.177007 11.873031],
+SniperSoldier,80.000000,[6.723110 10.134173],UZI
+Player2
+NormalSoldier,50.000000,[77.533780 100.487563],Missle
+SniperSoldier,80.000000,[83.098314 107.520702],M16
+NormalSoldier,50.000000,[78.354289 92.883329],M16
+No Winner!

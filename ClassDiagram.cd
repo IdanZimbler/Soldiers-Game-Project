@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AArmor" Collapsed="true">
+    <Position X="14" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAABAAAAAABAQAAAACgEAAAAII=</HashCode>
+      <FileName>AArmor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ACollectableItem" Collapsed="true">
+    <Position X="17.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAgAAAAAIAAAIAABAAAAAAACAAAAAAiEAAAAIA=</HashCode>
+      <FileName>ACollectableItem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AHuman" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAESAAAAAAAAAAQAAABAAAAAgAEEgAAA=</HashCode>
+      <FileName>AHuman.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AItem" Collapsed="true">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAQAABAAAAAgEAAAAAA=</HashCode>
+      <FileName>AItem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMoveable" Collapsed="true">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAACAAAAAAACAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>AMoveable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AOnBoard" Collapsed="true">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAAAAAAAAAAAAAJIACAAAAAABAAAAgEAAAAIA=</HashCode>
+      <FileName>AOnBoard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APlayer" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACgRIAAhAAAAAAAAAAAABAAQAAAAAAAQAAEgGBAAAIA=</HashCode>
+      <FileName>APlayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArmorFactory" Collapsed="true">
+    <Position X="1.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>ArmorFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASolidItem" Collapsed="true">
+    <Position X="22.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAABAgAAAAAAAQAQIAABAAAAAAAQAAEAAAgEAAAAIA=</HashCode>
+      <FileName>ASolidItem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AWeapon" Collapsed="true">
+    <Position X="19.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAMAAAIQAAAAAAABAABAAAQAAAAAAAgEAAAAJA=</HashCode>
+      <FileName>AWeapon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BodyArmor" Collapsed="true">
+    <Position X="15.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAABAAAAAIAAAAAAAAgEAAAAAA=</HashCode>
+      <FileName>BodyArmor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerPlayer" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAgAAAAAAAAAAAAABBAAACAAAAAABAAAgEAAAAAA=</HashCode>
+      <FileName>ComputerPlayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CsvInitInput" Collapsed="true">
+    <Position X="7.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAEgiAAAAAACBAAAAAAAAAAAAAAAACAAhEAAAAAAAAA=</HashCode>
+      <FileName>CsvInitInput.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CsvPlayerStepsInput" Collapsed="true">
+    <Position X="11.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAEAAAAAIAAAAAAAAAAAAAAAAEAAACAABEAAAAAAAAA=</HashCode>
+      <FileName>CsvPlayerStepsInput.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DefensiveStrategy" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAQAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>DefensiveStrategy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileControl" Collapsed="true">
+    <Position X="11.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>FileControl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="9.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAGAYAAAAAggAAAAAhAEAjAAASBgYICEAAAgAM=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameBoard" Collapsed="true">
+    <Position X="7.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgCAIAFAAQAABAAAIBBAAAAAAASECEAAIAggAAAAAIA=</HashCode>
+      <FileName>GameBoard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeavyWeapon" Collapsed="true">
+    <Position X="17.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAIAAQAAAAABAAAAAAAAAAAAAAgAAAAAIA=</HashCode>
+      <FileName>HeavyWeapon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IAttackable" Collapsed="true">
+    <Position X="14.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>IAttackable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IDefend" Collapsed="true">
+    <Position X="17" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>IDefend.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IInitializeInput" Collapsed="true">
+    <Position X="7.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IInitializeInput.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IOutput" Collapsed="true">
+    <Position X="8" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IOutput.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IPlayAble" Collapsed="true">
+    <Position X="10.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPlayAble.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IStrategy" Collapsed="true">
+    <Position X="1.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>IStrategy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ItemFactory" Collapsed="true">
+    <Position X="3" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>ItemFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LightWeapon" Collapsed="true">
+    <Position X="20.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAAQAAAAAAIAAAAAAAABAAAAAAAAAAAAAAgAAAAAIA=</HashCode>
+      <FileName>LightWeapon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="M16" Collapsed="true">
+    <Position X="22" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAIAAAABAAAAAgEAAAAAA=</HashCode>
+      <FileName>M16.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Missle" Collapsed="true">
+    <Position X="17.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAABAAAAAAAAAAAIAAgEAAAAAA=</HashCode>
+      <FileName>Missle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NormalSoldier" Collapsed="true">
+    <Position X="9.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAACAAAAABBAAABAgAACAAAAgMAACAAA=</HashCode>
+      <FileName>NormalSoldier.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectClassifier" Collapsed="true">
+    <Position X="11.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAAAAgAAAAAAAAKAAABAAAAQAAAIAAAQAAAgCEAAA=</HashCode>
+      <FileName>ObjectClassifier.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OffensiveStrategy" Collapsed="true">
+    <Position X="2.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAQAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>OffensiveStrategy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParamedicSoldier" Collapsed="true">
+    <Position X="7" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAJAAAAAAAIAIBAAAABAAAACAgAAgMAACAAA=</HashCode>
+      <FileName>ParamedicSoldier.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAgAAAAAgGBAAAAAAAAAAAAABgAGAAAIA=</HashCode>
+      <FileName>Point.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealPlayer" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAABAAAAAAAACAAAAAgEAAAAAA=</HashCode>
+      <FileName>RealPlayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShieldArmor" Collapsed="true">
+    <Position X="13" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAgEAAAAAA=</HashCode>
+      <FileName>ShieldArmor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SniperSoldier" Collapsed="true">
+    <Position X="11.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAABAAAABAAAACAAAAgMQACAAA=</HashCode>
+      <FileName>SniperSoldier.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Soldier" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAAAQRAAZAAAQCAJAAABAAAChAwAACCAEBgMAACAKI=</HashCode>
+      <FileName>Soldier.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoldierFactory" Collapsed="true">
+    <Position X="4.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>SoldierFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SolidItemFactory" Collapsed="true">
+    <Position X="1.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>SolidItemFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StrategyFactory" Collapsed="true">
+    <Position X="3" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StrategyFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tree" Collapsed="true">
+    <Position X="22.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAABAAAAAAAAAAAAAAgUAAAAAA=</HashCode>
+      <FileName>Tree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UZI" Collapsed="true">
+    <Position X="19.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAgBAAAAAAAAAAAAAAgEAAAAAA=</HashCode>
+      <FileName>UZI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WeaponFactory" Collapsed="true">
+    <Position X="4.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>WeaponFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
